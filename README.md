@@ -1,4 +1,4 @@
-# Web Tabanlı Gramer ve Token Analiz Uygulaması
+# Web Tabanlı Gramer ve Token Analizi ile Hava Durumu Uygulaması
 
 Bu proje, kullanıcıdan alınan metinleri analiz etmek üzere gramer ve sözcük düzeyinde işleyen bir sistem sunar. Node.js tabanlı bir backend ile çalışan bu sistem, gramer kurallarını tanımlar, lexical analiz (tokenization) gerçekleştirir ve sonuçları kullanıcıya sunar.
 
