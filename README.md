@@ -6,16 +6,27 @@ Bu proje, kullanıcıdan alınan metinleri analiz etmek üzere gramer ve sözcü
 
 webServer
 ├── gramer.py # Gramer kurallarını tanımlar (Python)
+
 ├── lexical.py # Lexical (token) analiz işlemleri
+
 ├── token.py # Token sınıfları ve veri yapıları
+
 ├── topdown.py # Top-down parser uygulaması (gramer analizi)
+
 ├── tkinter.py # Tkinter ile görsel arayüz prototipi
+
 ├── main.py # Python tarafının çalıştırıcısı
+
 ├── node_modules/ # Node.js bağımlılıkları
+
 ├── package.json # Node.js bağımlılık tanımlamaları
+
 ├── app.js / server.js # Web sunucusunu başlatan dosya
+
 └── public/ # Statik dosyalar (HTML, CSS, JS)
+
 └── index.html # Kullanıcı arayüzü sayfası
+
 
 
 
