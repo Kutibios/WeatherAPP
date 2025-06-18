@@ -17,26 +17,23 @@ webServer/
 └── public/ # Statik dosyalar (HTML, CSS, JS)
 └── index.html # Kullanıcı arayüzü sayfası
 
-bash
-Kopyala
-Düzenle
+
 
 ## 🚀 Başlangıç
 
 ### Kurulum
 
-```bash
+
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi/webServer
 npm install
-Sunucuyu Başlatma
-bash
-Kopyala
-Düzenle
+
+# Sunucuyu Başlatma
+
 node app.js
 # veya
 npm start
-Erişim
+# Erişim
 Uygulama varsayılan olarak http://localhost:3000 adresinde çalışır.
 
 🔍 Fonksiyonlar
@@ -52,7 +49,7 @@ Python betikleri, Node.js backend’i tarafından child_process modülüyle çal
 4. Web Arayüzü
 public/index.html dosyası aracılığıyla kullanıcı, tarayıcı üzerinden metin girip analizi başlatabilir. Arka planda ilgili Python kodları çalıştırılır.
 
-⚙️ Kullanılan Teknolojiler
+# ⚙️ Kullanılan Teknolojiler
 Node.js
 
 Express.js
@@ -63,7 +60,7 @@ HTML / CSS / JavaScript
 
 Tkinter (demo GUI)
 
-💡 Katkı Sağlamak
+# 💡 Katkı Sağlamak
 Projeye katkıda bulunmak isterseniz:
 
 Fork alın
