@@ -4,7 +4,7 @@ Bu proje, kullanıcıdan alınan metinleri analiz etmek üzere gramer ve sözcü
 
 ## 📁 Proje Yapısı
 
-webServer/
+webServer
 ├── gramer.py # Gramer kurallarını tanımlar (Python)
 ├── lexical.py # Lexical (token) analiz işlemleri
 ├── token.py # Token sınıfları ve veri yapıları
@@ -24,7 +24,7 @@ webServer/
 ### Kurulum
 
 
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/Kutibios/WeatherAPP)
 cd proje-adi/webServer
 npm install
 
