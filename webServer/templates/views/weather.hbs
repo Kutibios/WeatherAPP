@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hava Durumu</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="/img/clouds.png">
+</head>
+
+<body>
+    {{> header}}
+    <div class="main-content">
+        <p>Şehir adı girerek hava durumunu öğrenebilirsiniz:</p>
+        <form>
+            <input placeholder="Şehir adı giriniz">
+            <button>Ara</button>
+        </form>
+        <p id="message-1"></p>
+        <p id="message-2"></p>
+    </div>
+    {{> footer}}
+    <script src="/js/app.js"></script>
+</body>
+
+</html>
